@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1747725960 source:c:\users\walid\onedrive\desktop\ca project\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdint.h>
+	<string.h>
+	<ctype.h>
+	<stdbool.h>
+
